@@ -10,5 +10,10 @@ public class Main {
     	  System.out.println("Hello");
     	  System.out.println("2nd hello");
     	  System.out.println("Git hub");
+	      
+	      
       }
+	public static void LAVA(int a, string name, double){
+	
+	}
       }
